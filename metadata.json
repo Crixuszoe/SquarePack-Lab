@@ -1,0 +1,6 @@
+{
+  "name": "SquarePack Lab",
+  "description": "Computational geometry research laboratory and solver for unit-square container packing optimization (n=1 to 1,000).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
